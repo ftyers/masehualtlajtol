@@ -10,38 +10,38 @@
 
 ## Bien, bien, ¿y usted?
 
-* Kuali, kuali, uan teuatsin?
+* Kuali, kuali, uan tehuatsin?
 * Kuali, kuali, uan teh?
 
-* Amo kuali, keni tikchiuaskeh sa ohkon tipanotiue?
-* Amo kuali, keni tikchiuaskeh sa ohkon nipanotok?
-* Amo kuali, keni tikchiuaskeh sa ohkon nipanotiu?
+* Amo kuali, keni tikchiuaske(h) sa ohkon tipanotiue?
+* Amo kuali, keni tikchiuaske(h) sa ohkon nipanotok?
+* Amo kuali, keni tikchiuaske(h) sa ohkon nipanotiu?
 
 ## ¿Cómo le va?
 
-* Keni mitsyui?
-* Keni mitsonyui?
+* Keni mitsyoui?
+* Keni mitsonyoui?
 
 ## Nos vemos mañana
 
 * Tomostlatsinko!
-* Kemakatsi!
+* Kemahkatsi!
 
 ## Ya nos vamos 
 
-* Tla ma tiyaka
+* Tla ma tiyaka(n)
 
 ## Ya me voy
 
 * Tla ma niyo
 
-## Hace calor
+## Hace calor/¿te deja el sol?
 
 * Mitsonkaua tonaltsin
 
 ## No quiere llover 
 
-* Amo kiniki kiyuis
+* Amo kiniki kiyouis
 
 ## Hace muchísimo calor 
 
@@ -61,11 +61,11 @@
 
 ## Y usted, ¿cómo le llama?
 
-* Uan teuatsin tlenon motokatsi?
+* Uan tehuatsin tlenon motokatsi(n)?
 
 ## ¿Quiénes son tus papás?
 
-* Akike motauan?
+* Akihke motahuan?
 
 ## ¿Dónde naciste? 
 
@@ -81,7 +81,7 @@
 
 ## ¿Cuántos hermanos tienes?
 
-* Keskin mokniuan tikinpiya ?
+* Kesken mokniuan tikinpiya ?
 
 ## ¿Cuándo se va a nublar?
 
