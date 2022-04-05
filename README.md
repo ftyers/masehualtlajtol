@@ -1,8 +1,6 @@
-# nahuatlahtolli
+# Maseualtlahtol / Masewaltlahtol / Maseualtlajtol
 
-
-
-# Temas 
+## Temas 
 
 - Saludos
 - Comida
@@ -10,3 +8,9 @@
 - Viajes 
 - Compras 
 - Deseos 
+
+
+## Gramática 
+
+- Concordancia 
+- Sustantivos relacionales
